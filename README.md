@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Omkar Narsale</h1>
 
 <p align="center">
-  🎓 Second-Year IT Student &nbsp;|&nbsp; 📍 Navi Mumbai, India &nbsp;|&nbsp; 🎯 Aspiring Data Scientist
+  🎓 Second-Year IT Student &nbsp;|&nbsp; 📍 Mumbai, India &nbsp;|&nbsp; 🎯 Aspiring Data Scientist
 </p>
 
 <p align="center">
@@ -94,19 +94,12 @@ I'm excited to grow, explore new ideas, and find opportunities that challenge me
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omkar-narsale&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-narsale&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
 
 ### 🤝 Connect With Me
 
 - 🔗 **LinkedIn:** [omkar-narsale](https://www.linkedin.com/in/omkar-narsale-56b188330/)
 - 🐙 **GitHub:** [Omkar-narsale](https://github.com/Omkar-narsale)
+- 📁 **Repositories:** [github.com/Omkar-narsale?tab=repositories](https://github.com/Omkar-narsale?tab=repositories)
 
 Always open to:
 - 💡 Learning opportunities
