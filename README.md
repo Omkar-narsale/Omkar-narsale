@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Omkar Narsale</h1>
 
 <p align="center">
-  🎓 Second-Year IT Student &nbsp;|&nbsp; 📍 Mumbai, India &nbsp;|&nbsp; 🎯 Aspiring Data Scientist
+  🎓 Second-Year IT Student &nbsp;|&nbsp; 📍 Navi Mumbai, India &nbsp;|&nbsp; 🎯 Aspiring Data Scientist
 </p>
 
 <p align="center">
@@ -64,8 +64,14 @@ I'm excited to grow, explore new ideas, and find opportunities that challenge me
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+
+**GUI**
+
+![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB?style=flat&logo=python&logoColor=white)
+![Swing](https://img.shields.io/badge/-Java%20Swing-007396?style=flat&logo=java&logoColor=white)
 
 ---
 
@@ -81,7 +87,7 @@ I'm excited to grow, explore new ideas, and find opportunities that challenge me
 - 🏁 **Hackathons & Competitions** — Building under pressure, team collaboration
 - 🔌 **Hardware & Networking** — Arduino prototyping, Cisco networking basics
 
-> *(Still learning — depth over buzzwords.)*
+> *🛠️ Work in progress — always.*
 
 ---
 
@@ -109,4 +115,4 @@ Always open to:
 
 ---
 
-<p align="center"><em>✨ Learning in public. Building honestly. Growing every day. ✨</em></p>
+<p align="center"><em>🚀 Code. Learn. Repeat.</em></p>
