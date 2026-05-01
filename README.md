@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a second-year student working toward becoming a **Data Scientist**. Over the next few years, I'll be sharpening my skills in Python, DSA, and data science tools while building projects that help me learn by doing.
+I'm a second-year IT student working toward becoming a **Data Scientist**. Over the next few years, I'll be sharpening my skills in Python, DSA, and data science tools while building projects that help me learn by doing.
 
 I'm excited to grow, explore new ideas, and find opportunities that challenge me to think smarter and solve real problems with data.
 
@@ -25,11 +25,22 @@ I'm excited to grow, explore new ideas, and find opportunities that challenge me
 
 ---
 
-### 🏆 Hackathons & Participation
+### 🏆 Hackathons & Competitions
 
-| Event | Status |
-|-------|--------|
-| ⚡ VEGA Hackathon | ✅ Participated |
+| Event | Organizer | Status |
+|-------|-----------|--------|
+| ⚡ VEGA Hackathon | — | ✅ Participated |
+| 🧩 Tvastr Decode | Tvastr | 🥈 Finalist |
+
+---
+
+### 📊 Data Analytics Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| 🧹 [Data Cleaning using SQL](https://github.com/Omkar-narsale/Data-cleaning-using-SQL) | Applied structured SQL queries to clean, transform, and standardize raw datasets | MySQL, SQL |
+
+> *More projects in progress — being added as they mature.*
 
 ---
 
@@ -52,19 +63,24 @@ I'm excited to grow, explore new ideas, and find opportunities that challenge me
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-**Data & Analytics**
+**Data Analytics & Science**
 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-FF6F61?style=flat&logo=databricks&logoColor=white)
+![EDA](https://img.shields.io/badge/-EDA-8E44AD?style=flat&logo=jupyter&logoColor=white)
 
 **Tools & Hardware**
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
@@ -77,9 +93,7 @@ I'm excited to grow, explore new ideas, and find opportunities that challenge me
 
 ### 🎯 Areas of Interest
 
-**Domain — Topics**
-
-- 📊 **Data Science** — Python, Pandas, NumPy, visualization, ML fundamentals
+- 📊 **Data Analytics & Science** — SQL, Python, Pandas, NumPy, EDA, visualization, ML fundamentals
 - 🔐 **Cyber Security** — Fundamentals, threat concepts, secure systems
 - 🗄️ **Databases & Backend** — DBMS, backend logic, data modeling
 - 🌐 **Web Development** — HTML, CSS, Bootstrap, Tailwind, Framer Motion
@@ -96,10 +110,9 @@ I'm excited to grow, explore new ideas, and find opportunities that challenge me
 - 📈 Improving problem-solving & coding consistency
 - 📚 Learning core subjects: **DBMS · OS · Networks · Security**
 - 🏁 Participating in hackathons & technical events
-- 🔨 Building projects incrementally *(will be added here as they mature)*
+- 🔨 Building data analytics projects incrementally
 
 ---
-
 
 ### 🤝 Connect With Me
 
