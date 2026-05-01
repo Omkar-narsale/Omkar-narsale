@@ -11,6 +11,9 @@
   <a href="https://github.com/Omkar-narsale">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
+  <a href="https://omkar-narsale-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -34,13 +37,102 @@ I'm excited to grow, explore new ideas, and find opportunities that challenge me
 
 ---
 
-### 📊 Data Analytics Projects
+### 🚀 Featured Projects — Real. Working. Shipped.
 
-| Project | Description | Tools |
-|---------|-------------|-------|
-| 🧹 [Data Cleaning using SQL](https://github.com/Omkar-narsale/Data-cleaning-using-SQL) | Applied structured SQL queries to clean, transform, and standardize raw datasets | MySQL, SQL |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🪖 War Dashboard</h3>
+      <p>A data analytics dashboard visualizing conflict data — tracking metrics, trends, and insights from complex datasets in a clean, interactive interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Data%20Viz-8E44AD?style=flat&logo=databricks&logoColor=white" />
+      </p>
+      <a href="https://github.com/Omkar-narsale/War_Dashboard">🔗 View Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 HR Analytics Dashboard</h3>
+      <p>Interactive dashboard providing insights into employee attrition, satisfaction scores, demographics, and department-level KPIs for data-driven HR decisions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+      </p>
+      <a href="https://github.com/Omkar-narsale">🔗 View Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 Sales Dashboard</h3>
+      <p>End-to-end sales performance dashboard tracking revenue, product trends, regional performance, and growth metrics — built for real business decision-making.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+      </p>
+      <a href="https://github.com/Omkar-narsale">🔗 View Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 ResumeIQ — AI Resume Analyzer</h3>
+      <p>AI-powered tool that analyzes resumes, extracts key skills, and provides smart improvement suggestions — built using Python and NLP for automated resume screening.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-NLP-FF6F61?style=flat&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
+      </p>
+      <a href="https://github.com/Omkar-narsale">🔗 View Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ Voice Chat App</h3>
+      <p>Real-time voice chat application built with Node.js and WebRTC. Enables peer-to-peer voice communication directly in the browser — no plugins required.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      </p>
+      <a href="https://github.com/Omkar-narsale">🔗 View Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧹 Data Cleaning using SQL</h3>
+      <p>Applied structured SQL queries to clean, transform, and standardize raw datasets — handling nulls, duplicates, formatting issues, and inconsistencies at scale.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white" />
+      </p>
+      <a href="https://github.com/Omkar-narsale/Data-cleaning-using-SQL">🔗 View Repo</a>
+    </td>
+  </tr>
+</table>
 
-> *More projects in progress — being added as they mature.*
+> 👉 See everything: **[omkar-narsale-portfolio.vercel.app](https://omkar-narsale-portfolio.vercel.app)**
+
+---
+
+### 💡 What Makes My Projects Different
+
+| Trait | What it means in practice |
+|-------|--------------------------|
+| 🎯 **Real Problem Focus** | Every project solves an actual use case — not just tutorial clones |
+| 📊 **Data-Driven Thinking** | Dashboards and analytics built with business decision-making in mind |
+| 🔗 **End-to-End Delivery** | From raw data / idea → cleaned → visualized → shipped |
+| 🤖 **AI Integration** | Actively incorporating AI/ML into tools (ResumeIQ, Zen-Task AI) |
+| 🧪 **Learning by Building** | Each project is a deliberate skill checkpoint, not just code |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omkar-narsale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-narsale&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar-narsale&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Omkar-narsale&color=blueviolet&style=flat" alt="Profile views" />
+</p>
 
 ---
 
@@ -110,12 +202,13 @@ I'm excited to grow, explore new ideas, and find opportunities that challenge me
 - 📈 Improving problem-solving & coding consistency
 - 📚 Learning core subjects: **DBMS · OS · Networks · Security**
 - 🏁 Participating in hackathons & technical events
-- 🔨 Building data analytics projects incrementally
+- 🔨 Building data analytics & AI projects incrementally
 
 ---
 
 ### 🤝 Connect With Me
 
+- 🌐 **Portfolio:** [omkar-narsale-portfolio.vercel.app](https://omkar-narsale-portfolio.vercel.app)
 - 🔗 **LinkedIn:** [omkar-narsale](https://www.linkedin.com/in/omkar-narsale-56b188330/)
 - 🐙 **GitHub:** [Omkar-narsale](https://github.com/Omkar-narsale)
 - 📁 **Repositories:** [github.com/Omkar-narsale?tab=repositories](https://github.com/Omkar-narsale?tab=repositories)
