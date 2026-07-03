@@ -227,20 +227,22 @@ Tech: MySQL, SQL
 
 ---
 
-### 📊 GitHub Stats
+### 💭 Random Dev Wisdom
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omkar-narsale&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=8E44AD&text_color=c9d1d9&border_radius=10&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-narsale&layout=compact&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=c9d1d9&border_radius=10&langs_count=8" width="48%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar-narsale&hide_border=true&background=0D1117&ring=2E9EF7&fire=8E44AD&currStreakLabel=2E9EF7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=6e7681&border_radius=10" width="60%" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/i18n/Terminal.svg" width="0" height="0"/>
+  <img src="https://cdn.jsdelivr.net/gh/DenverCoder1/github-readme-jokes@main/assets/jokes.svg" width="90%" alt="Programming Joke"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omkar-narsale&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10&title.color=2E9EF7" />
+  <img src="https://media.giphy.com/media/fVoIcO6BUxdQU/giphy.gif" width="500" alt="Coding vibes"/>
 </p>
+
+<p align="center"><em>🤖 Refreshes every visit — because static stats are boring, but bad jokes are timeless.</em></p>
 
 ---
 
