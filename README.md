@@ -234,11 +234,6 @@ Tech: MySQL, SQL
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/i18n/Terminal.svg" width="0" height="0"/>
-  <img src="https://cdn.jsdelivr.net/gh/DenverCoder1/github-readme-jokes@main/assets/jokes.svg" width="90%" alt="Programming Joke"/>
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/fVoIcO6BUxdQU/giphy.gif" width="500" alt="Coding vibes"/>
 </p>
 
