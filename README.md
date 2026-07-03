@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi, I'm Omkar Narsale</h1>
 
 <p align="center">
-  IT Undergraduate | Data Science Enthusiast | Analytics & AI Builder<br/>
-  Turning raw data into insights — from dashboards to AI-powered tools
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=IT+Undergraduate+%F0%9F%8E%93;Data+Science+Enthusiast+%F0%9F%93%8A;Analytics+%26+AI+Builder+%F0%9F%A4%96;Turning+raw+data+into+insights" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -238,6 +237,20 @@ Tech: MySQL, SQL
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar-narsale&theme=tokyonight&hide_border=true" width="60%" />
 </p>
+
+---
+
+### 🐍 Snake Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omkar-narsale/Omkar-narsale/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omkar-narsale/Omkar-narsale/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Omkar-narsale/Omkar-narsale/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+> ⚠️ This animation only appears after the `snake.yml` GitHub Action (included alongside this file) has run at least once in your repo — see setup notes at the bottom of this file.
 
 ---
 
