@@ -1,24 +1,24 @@
-<h1 align="center">👋 Hi, I'm Omkar Narsale</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=IT+Undergraduate+%F0%9F%8E%93;Data+Science+Enthusiast+%F0%9F%93%8A;Analytics+%26+AI+Builder+%F0%9F%A4%96;Turning+raw+data+into+insights" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E44AD&height=190&section=header&text=Omkar%20Narsale&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20AI%2FML%20%7C%20Dashboards&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=8E44AD&center=true&vCenter=true&width=650&lines=IT+Undergraduate+%F0%9F%8E%93;Data+Science+Enthusiast+%F0%9F%93%8A;Analytics+%26+AI+Builder+%F0%9F%A4%96;Turning+raw+data+into+insights+%E2%9C%A8" alt="Typing SVG" />
+
+<p>
   <a href="https://www.linkedin.com/in/omkar-narsale45">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://omkar-narsale-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/Omkar-narsale">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Omkar-narsale&color=blueviolet&style=flat" alt="Profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Omkar-narsale&color=8e44ad&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
 
 ---
 
@@ -230,12 +230,16 @@ Tech: MySQL, SQL
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omkar-narsale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-narsale&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omkar-narsale&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=8E44AD&text_color=c9d1d9&border_radius=10&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-narsale&layout=compact&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=c9d1d9&border_radius=10&langs_count=8" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar-narsale&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar-narsale&hide_border=true&background=0D1117&ring=2E9EF7&fire=8E44AD&currStreakLabel=2E9EF7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=6e7681&border_radius=10" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Omkar-narsale&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10&title.color=2E9EF7" />
 </p>
 
 ---
