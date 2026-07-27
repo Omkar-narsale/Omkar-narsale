@@ -35,11 +35,11 @@ class OmkarNarsale:
         self.hackathon_status = "AVISHKAAR Season 3 - Shortlisted for Physical Round 🏆"
 ```
 
-- 🔭 **6 shipped projects** — dashboards, AI tools, voice apps & more
+- 🔭 **4 shipped projects** — AI assistants, browser extensions & analytics dashboards
 - 🌱 **Learning** advanced CV, LLM fine-tuning, Docker & cloud deployment
-- 🎯 **Hackathon achiever** —  Vega Hackathon,Tvastr Decode Finalist
+- 🎯 **Hackathon achiever** —  Vega Hackathon, Tvastr Decode Finalist
 - 💼 **Open to** AI/ML internships and collaborative projects
-- ⚡ **Fun fact:** I built a real-time voice chat app referencing 6+ research papers!
+- ⚡ **Fun fact:** I built a Chrome extension that lets you chat with any YouTube video using RAG!
 
 ---
 
@@ -56,25 +56,70 @@ class OmkarNarsale:
 
 ---
 
-#### 🗣️ Voice Chat App — AI Avatar
+#### 🧠 TubeMind AI — AI-Powered YouTube Learning Assistant
 
-**Real-time Voice Chat with Emotion-Aware AI**
+**Chat with any YouTube video using RAG**
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/-Chrome%20Extension-4285F4?style=flat&logo=googlechrome&logoColor=white)
 
-Peer-to-peer voice communication system built on research:
+A Chrome Extension that turns YouTube videos into an interactive learning experience using Retrieval-Augmented Generation:
 
-- 🧠 **Emotion-aware AI avatar** — detects and responds to tone
-- 🔗 **WebRTC** — peer-to-peer voice directly in the browser, no plugins needed
-- 📚 **Research-backed** — references 6+ academic research papers
-- 🔒 **Privacy-first** — no external server required for media relay
-- ⚡ **Real-time** — low-latency audio streaming
+- 💬 **Chat with videos** — multi-turn conversation memory with streaming responses
+- 🧠 **RAG pipeline** — transcript retrieval, semantic chunking, Sentence Transformers, FAISS vector search
+- 📄 **AI learning tools** — short/detailed/bullet summaries, structured study notes, key takeaways
+- 📍 **Timestamp citations** — jump straight to the relevant moment in the video
+- ⚡ **Groq + Llama 3.3 70B** — fast, low-latency inference
 
-Tech: Node.js, JavaScript, WebRTC
+Tech: React, FastAPI, Groq, Llama 3.3 70B, FAISS, Sentence Transformers
 
-[🔗 View Repo](https://github.com/Omkar-narsale/node-js-boot-camp)
+[🔗 View Repo](https://github.com/Omkar-narsale/TubeMind-AI)
+
+---
+
+#### 📚 LangChain Smart Study Assistant
+
+**AI Document Analysis with Parallel Chains**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+An AI-powered document analysis app that turns any document or pasted text into a full study kit:
+
+- 📄 **Summary, key points, quiz & flashcards** — generated simultaneously via LangChain `RunnableParallel`
+- 📂 **Multi-format input** — supports TXT, PDF, DOCX uploads or pasted text
+- 🧩 **LLM-powered** — built on TinyLlama-1.1B-Chat via HuggingFace
+- 📥 **Downloadable study report** — export everything in one go
+- ⚡ **Parallel execution** — all outputs generated at once, not sequentially
+
+Tech: Python, LangChain, TinyLlama, HuggingFace, Streamlit
+
+[🔗 View Repo](https://github.com/Omkar-narsale/LangChain-Smart-Study-Assistant) ⭐ 1
+
+---
+
+#### 🚦 Road Safety Analytics — Power BI
+
+**Road Accident Analysis Dashboard**
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+Analyzes road accident data to uncover trends, major causes, and high-risk factors:
+
+- 📊 **Executive dashboard** — total accidents, casualties, fatality rate, monthly trends
+- 🔍 **Root cause analysis** — weather, road surface, lighting, and collision type breakdowns
+- ⚠️ **Risk analysis** — highest-risk time, vehicle type, and driver age vs. speed limit
+- 🐍 **Python preprocessing** — cleaned with Pandas before modeling in Power BI
+- 🎛️ **Interactive** — custom navigation, slicers, filters, and DAX-powered KPIs
+
+Tech: Power BI, Python, Pandas, DAX, Excel
+
+[🔗 View Repo](https://github.com/Omkar-narsale/Road-Safety-Analytics-PowerBI) ⭐ 4
 
 ---
 
@@ -100,86 +145,6 @@ Tech: HTML, CSS, JavaScript, AI APIs
 
 ---
 
-#### 🪖 War Dashboard — Conflict Data Analytics
-
-**Interactive Data Visualization Dashboard**
-
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Data Viz](https://img.shields.io/badge/-Data%20Viz-8E44AD?style=flat&logo=databricks&logoColor=white)
-
-Data analytics for complex real-world datasets:
-
-- 📊 **Interactive visualizations** — trends, metrics, and patterns
-- 🗺️ **Geospatial insights** — location-based data filtering
-- ⚡ **Live filtering** — slicers for dynamic drill-downs
-- 🎯 **Business-ready** — built with decision-making in mind
-
-Tech: Power BI, Excel, DAX
-
-[🔗 View Repo](https://github.com/Omkar-narsale/War_Dashboard)
-
----
-
-#### 💼 HR Analytics Dashboard
-
-**Employee Attrition & KPI Insights**
-
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-Data-driven HR decision-making:
-
-- 👥 **Attrition analysis** — spot patterns before they cost money
-- 📈 **Satisfaction scores** — department-level KPI tracking
-- 🏢 **Demographics** — age, tenure, role, and department breakdowns
-- 🎯 **Actionable insights** — built for real HR use cases
-
-Tech: Power BI, Excel, DAX
-
-[🔗 View Repo](https://github.com/Omkar-narsale)
-
----
-
-#### 📈 Sales Dashboard — Revenue Intelligence
-
-**End-to-End Sales Performance Tracking**
-
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-Full business intelligence pipeline:
-
-- 💰 **Revenue tracking** — by product, region, and time period
-- 📦 **Product trends** — best/worst performers at a glance
-- 🌍 **Regional performance** — map-level drilldowns
-- 🔄 **MySQL backend** — clean, structured data pipeline
-
-Tech: Power BI, MySQL, Excel, DAX
-
-[🔗 View Repo](https://github.com/Omkar-narsale)
-
----
-
-#### 🧹 Data Cleaning using SQL
-
-**Structured Data Transformation at Scale**
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-Production-grade data cleaning:
-
-- 🗑️ **Null handling** — systematic strategies per column type
-- 🔄 **Deduplication** — CTE-based duplicate removal
-- 🎨 **Standardization** — consistent formats across messy datasets
-- 📋 **Documented queries** — readable, reusable SQL patterns
-
-Tech: MySQL, SQL
-
-[🔗 View Repo](https://github.com/Omkar-narsale/Data-cleaning-using-SQL)
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -202,8 +167,12 @@ Tech: MySQL, SQL
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-**AI / ML (Learning)**
+**AI / ML**
 
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat&logo=opencv&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
 ![LLMs](https://img.shields.io/badge/-LLMs-412991?style=flat&logo=openai&logoColor=white)
@@ -211,8 +180,11 @@ Tech: MySQL, SQL
 
 **Web & Backend**
 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
@@ -259,12 +231,10 @@ Tech: MySQL, SQL
 
 | Project | Key Innovation | Real-World Impact |
 |---------|---------------|-------------------|
-| Voice Chat | Emotion-aware avatar + WebRTC + 6 research papers | Real-time AI communication |
+| TubeMind AI | RAG + FAISS semantic search + Groq LLM in a Chrome extension | Chat with and learn from any YouTube video |
+| LangChain Smart Study Assistant | Parallel-chain generation of summary, quiz & flashcards in one pass | Turns any document into a ready-made study kit |
+| Road Safety Analytics (Power BI) | Python-cleaned data + DAX-powered drill-down dashboard | Data-driven road safety recommendations |
 | Zen-Task AI | AI-integrated task management | Smarter productivity tool |
-| War Dashboard | Complex conflict data visualized cleanly | Strategic data insights |
-| HR Analytics | Attrition + KPI tracking dashboard | Data-driven HR decisions |
-| Sales Dashboard | Full pipeline MySQL → Power BI | Business revenue intelligence |
-| Data Cleaning SQL | Systematic transformation at scale | Production-ready clean data |
 
 ---
 
@@ -296,20 +266,19 @@ current_learning = {
 
 | Project | Stars | Language | Key Feature |
 |---------|-------|----------|-------------|
+| Road Safety Analytics (Power BI) | ⭐ 4 | Power BI / Python | Road accident risk & root-cause dashboard |
+| LangChain Smart Study Assistant | ⭐ 1 | Python | Parallel-chain document-to-study-kit generator |
 | Zen-Task AI | ⭐ 1 | HTML | AI-integrated task management |
-| Voice Chat App | ⭐ 1 | JavaScript | Emotion-aware AI avatar |
-| C Phonebook | ⭐ 1 | C | Classic data structures |
-| Data Cleaning SQL | 0 | SQL | Structured data transformation |
-| Employee Mgmt System | 0 | Java | Full HR operations |
+| TubeMind AI | 0 | JavaScript / Python | RAG-powered YouTube chat extension |
 
 ---
 
 ### 🏆 Achievements
 
 - ✅ Tvastr Decode — Finalist 🥈
-- ✅ 6 complete shipped projects across data, AI & web
-- ✅ Research implementation — Voice Chat references 6+ research papers
-- ✅ AI integration — Zen-Task AI brings LLM power to productivity
+- ✅ 4 complete shipped projects across AI, browser tooling & analytics
+- ✅ RAG in production — TubeMind AI combines FAISS, Sentence Transformers & Groq
+- ✅ AI integration — Zen-Task AI and LangChain Smart Study Assistant both bring LLM power to everyday tools
 
 ---
 
@@ -320,7 +289,7 @@ I'm actively looking for:
 - 💼 **AI/ML Internships** — Data Science, Computer Vision, or Voice AI
 - 🤝 **Open Source Collaborations** — Accessibility tech, analytics tools
 - 🏆 **Hackathon Teams** — Building impactful solutions
-- 💬 **Tech Discussions** — Power BI, Flask, Deep Learning, Computer Vision
+- 💬 **Tech Discussions** — Power BI, LangChain, Deep Learning, Computer Vision
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omkar-narsale45">
