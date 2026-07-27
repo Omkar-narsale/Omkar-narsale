@@ -2,11 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs once a day
-  workflow_dispatch: {}
+    - cron: "0 0 * * *"   # runs once a day (midnight UTC) — picks up new contributions automatically
+  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
   push:
     branches:
-      - main
+      - main               # also regenerates on every push to main
 
 jobs:
   generate:
@@ -14,7 +14,7 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
+      - name: Generate snake animation (light + dark)
         uses: Platane/snk@v3
         id: snake-gif
         with:
