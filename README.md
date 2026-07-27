@@ -75,7 +75,7 @@ A Chrome Extension that turns YouTube videos into an interactive learning experi
 
 Tech: React, FastAPI, Groq, Llama 3.3 70B, FAISS, Sentence Transformers
 
-[🔗 View Repo](https://github.com/Omkar-narsale/TubeMind-AI)
+[🔗 View Repo](https://github.com/Omkar-narsale/TubeMind-AI) ![Stars](https://img.shields.io/github/stars/Omkar-narsale/TubeMind-AI?style=flat&logo=github&label=%E2%AD%90)
 
 ---
 
@@ -97,7 +97,7 @@ An AI-powered document analysis app that turns any document or pasted text into 
 
 Tech: Python, LangChain, TinyLlama, HuggingFace, Streamlit
 
-[🔗 View Repo](https://github.com/Omkar-narsale/LangChain-Smart-Study-Assistant) ⭐ 1
+[🔗 View Repo](https://github.com/Omkar-narsale/LangChain-Smart-Study-Assistant) ![Stars](https://img.shields.io/github/stars/Omkar-narsale/LangChain-Smart-Study-Assistant?style=flat&logo=github&label=%E2%AD%90)
 
 ---
 
@@ -119,7 +119,7 @@ Analyzes road accident data to uncover trends, major causes, and high-risk facto
 
 Tech: Power BI, Python, Pandas, DAX, Excel
 
-[🔗 View Repo](https://github.com/Omkar-narsale/Road-Safety-Analytics-PowerBI) ⭐ 4
+[🔗 View Repo](https://github.com/Omkar-narsale/Road-Safety-Analytics-PowerBI) ![Stars](https://img.shields.io/github/stars/Omkar-narsale/Road-Safety-Analytics-PowerBI?style=flat&logo=github&label=%E2%AD%90)
 
 ---
 
@@ -141,7 +141,7 @@ Advanced task management with AI smarts:
 
 Tech: HTML, CSS, JavaScript, AI APIs
 
-[🔗 View Repo](https://github.com/Omkar-narsale/Zen-Task_AI) ⭐ 1
+[🔗 View Repo](https://github.com/Omkar-narsale/Zen-Task_AI) ![Stars](https://img.shields.io/github/stars/Omkar-narsale/Zen-Task_AI?style=flat&logo=github&label=%E2%AD%90)
 
 ---
 
@@ -266,10 +266,10 @@ current_learning = {
 
 | Project | Stars | Language | Key Feature |
 |---------|-------|----------|-------------|
-| Road Safety Analytics (Power BI) | ⭐ 4 | Power BI / Python | Road accident risk & root-cause dashboard |
-| LangChain Smart Study Assistant | ⭐ 1 | Python | Parallel-chain document-to-study-kit generator |
-| Zen-Task AI | ⭐ 1 | HTML | AI-integrated task management |
-| TubeMind AI | 0 | JavaScript / Python | RAG-powered YouTube chat extension |
+| Road Safety Analytics (Power BI) | ![Stars](https://img.shields.io/github/stars/Omkar-narsale/Road-Safety-Analytics-PowerBI?style=flat&logo=github&label=) | Power BI / Python | Road accident risk & root-cause dashboard |
+| LangChain Smart Study Assistant | ![Stars](https://img.shields.io/github/stars/Omkar-narsale/LangChain-Smart-Study-Assistant?style=flat&logo=github&label=) | Python | Parallel-chain document-to-study-kit generator |
+| Zen-Task AI | ![Stars](https://img.shields.io/github/stars/Omkar-narsale/Zen-Task_AI?style=flat&logo=github&label=) | HTML | AI-integrated task management |
+| TubeMind AI | ![Stars](https://img.shields.io/github/stars/Omkar-narsale/TubeMind-AI?style=flat&logo=github&label=) | JavaScript / Python | RAG-powered YouTube chat extension |
 
 ---
 
