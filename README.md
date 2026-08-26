@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E44AD&height=190&section=header&text=Omkar%20Narsale&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20AI%2FML%20%7C%20Dashboards&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=8E44AD&center=true&vCenter=true&width=650&lines=IT+Undergraduate+%F0%9F%8E%93;Data+Science+Enthusiast+%F0%9F%93%8A;Analytics+%26+AI+Builder+%F0%9F%A4%96;Turning+raw+data+into+insights+%E2%9C%A8" alt="Typing SVG" />
+<img src="./terminal-header.svg" width="100%" alt="Terminal boot sequence header"/>
 
 <p>
   <a href="https://www.linkedin.com/in/omkar-narsale45">
@@ -37,7 +35,7 @@ class OmkarNarsale:
 
 - 🔭 **4 shipped projects** — AI assistants, browser extensions & analytics dashboards
 - 🌱 **Learning** advanced CV, LLM fine-tuning, Docker & cloud deployment
-- 🎯 **Hackathon achiever** —  Vega Hackathon, Tvastr Decode Finalist
+- 🎯 **Hackathon achiever** — Vega Hackathon, Tvastr Decode Finalist
 - 💼 **Open to** AI/ML internships and collaborative projects
 - ⚡ **Fun fact:** I built a Chrome extension that lets you chat with any YouTube video using RAG!
 
