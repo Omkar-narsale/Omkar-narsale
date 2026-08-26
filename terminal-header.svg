@@ -1,0 +1,59 @@
+<svg width="800" height="330" viewBox="0 0 800 330" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="topbar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2E9EF7"/>
+      <stop offset="100%" stop-color="#8E44AD"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="800" height="330" rx="14" fill="#0d1117"/>
+  <rect x="0" y="0" width="800" height="4" rx="2" fill="url(#topbar)"/>
+
+  <rect x="0" y="4" width="800" height="34" fill="#161b22"/>
+  <circle cx="24" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="21" r="6" fill="#27c93f"/>
+  <text x="400" y="26" font-family="JetBrains Mono, monospace" font-size="13" fill="#8b949e" text-anchor="middle">omkar@github ~ zsh</text>
+
+  <g font-family="JetBrains Mono, monospace" font-size="16">
+    <text x="30" y="75" fill="#27c93f" opacity="0">$ whoami
+      <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="30" y="101" fill="#8b949e" opacity="0">&gt; omkar_narsale
+      <animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="30" y="127" fill="#27c93f" opacity="0">$ python3 initialize.py
+      <animate attributeName="opacity" from="0" to="1" begin="2.1s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="30" y="153" fill="#af9cec" opacity="0">&gt; Loading Omkar_Narsale.exe...
+      <animate attributeName="opacity" from="0" to="1" begin="3.0s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="30" y="179" fill="#af9cec" opacity="0">&gt; [######################] 100%
+      <animate attributeName="opacity" from="0" to="1" begin="3.9s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="30" y="205" fill="#5dcaa5" opacity="0">&gt; Status: Online ✓
+      <animate attributeName="opacity" from="0" to="1" begin="4.8s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="30" y="231" fill="#6cb6ff" opacity="0">&gt; Skills: Python · Power BI · LangChain · React · FAISS
+      <animate attributeName="opacity" from="0" to="1" begin="5.7s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="30" y="257" fill="#f0997b" opacity="0">&gt; Role: Data Analytics | AI/ML | Dashboards
+      <animate attributeName="opacity" from="0" to="1" begin="6.6s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="30" y="290" fill="#27c93f" opacity="0">$
+      <animate attributeName="opacity" from="0" to="1" begin="7.5s" dur="0.1s" fill="freeze"/>
+    </text>
+    <rect x="46" y="278" width="10" height="18" fill="#27c93f" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="7.5s" dur="0.1s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0;1" dur="1s" begin="7.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
