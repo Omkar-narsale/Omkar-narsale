@@ -33,7 +33,7 @@ class OmkarNarsale:
         self.hackathon_status = "AVISHKAAR Season 3 - Shortlisted for Physical Round 🏆"
 ```
 
-- 🔭 **4 shipped projects** — AI assistants, browser extensions & analytics dashboards
+- 🔭 **3 shipped projects** — AI assistants, browser extensions & analytics dashboards
 - 🌱 **Learning** advanced CV, LLM fine-tuning, Docker & cloud deployment
 - 🎯 **Hackathon achiever** — Vega Hackathon, Tvastr Decode Finalist
 - 💼 **Open to** AI/ML internships and collaborative projects
