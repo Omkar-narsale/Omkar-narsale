@@ -12,6 +12,9 @@
   <a href="https://github.com/Omkar-narsale">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://leetcode.com/u/qlakbkpB58/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
 
 <img src="https://hits.sh/github.com/Omkar-narsale.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=8e44ad" alt="Profile views"/>
@@ -26,7 +29,7 @@ B.Tech IT student at **SAKEC** (2024–2028), based in Navi Mumbai. I build data
 
 - 🔭 **4 projects built**: a RAG Chrome extension, an LLM study assistant, a Power BI dashboard, and an AI to-do app
 - 🏆 **Hackathons:** Tvastr Decode (Finalist), AVISHKAAR Season 3 (shortlisted for the physical round), VEGA (participant)
-- 🧮 **Practising DSA daily** on LeetCode (see the streak below)
+- 🧮 **Practising DSA daily** on LeetCode (see the stats and badges below)
 - 🌱 **Learning:** computer vision (YOLO, MediaPipe), LLM fine-tuning, Docker, cloud deployment
 
 ---
@@ -38,11 +41,25 @@ B.Tech IT student at **SAKEC** (2024–2028), based in Navi Mumbai. I build data
 </p>
 
 <p align="center">
+  <img src="https://leetcard.jacoblin.cool/qlakbkpB58?theme=dark&ext=heatmap" alt="LeetCode stats"/>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omkar-narsale/Omkar-narsale/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omkar-narsale/Omkar-narsale/output/github-contribution-grid-snake.svg">
     <img alt="Contribution grid snake animation" src="https://raw.githubusercontent.com/Omkar-narsale/Omkar-narsale/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+#### 🏅 LeetCode Badges
+
+<p align="center">
+  <a href="https://leetcode.com/u/qlakbkpB58/">
+    <img src="./leetcode-sql50.png" width="140" alt="LeetCode SQL 50 badge"/>
+    <img src="./leetcode-50days.png" width="140" alt="LeetCode 50 Days Badge 2026"/>
+    <img src="./leetcode-100days.png" width="140" alt="LeetCode 100 Days Badge 2026"/>
+  </a>
 </p>
 
 ---
