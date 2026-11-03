@@ -1,0 +1,454 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="460" viewBox="0 0 1000 460" role="img" aria-label="Omkar Narsale animated hero banner" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTplMzcyZDg5Mi1hZTRhLTQzYWItYmQ4Ni1lZDZlMjU1MzZlNTcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaCBpclbvtitEaXmwgV59HakAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpjM2IwMDJlYS03OTMxLTRkMDMtOTY0YS1mY2I1OWVkOTQ2MzFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoVvDXdAMiMXzJjKC56w+xEQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggs1ehlDRWsfbqv7vhQhbFeB1eN3g6KL60x+1RGMvvoWakZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaEpu89Lgo+Vn6BOj8IqEeYsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBqe/8bGjlkKwhCz3RRcdvV1UReBhYhG9pZXa13uASVSGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjTZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmUzNzJkODkyLWFlNGEtNDNhYi1iZDg2LWVkNmUyNTUzNmU1Ny9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjIwOTUwOTI1LTRiOWEtNGFmNS05YmUyLWQ5OTJmM2ZlNzc5ZXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCzV6GUNFax9uq/u+FCFsV4HV43eDoovrTH7VEYy++hZqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggwxXb32RDxNoTLz518zBR9ZubSnoYzUifqqCmmI8Jd9CiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggiuqmnYeRSHVUB7HXe6INePmTjigdou5KH5GIuMUlxnB0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQLRINtckKot7DEdKTAyC9YDBBXpLP0yD2DxERnw8zIdgaDAl0FBIwSmA8D/pTEJLL69S20uc7ElkCNWyOnI6UlY=</c2pa:manifest></metadata>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d111a"/><stop offset="1" stop-color="#070a10"/></linearGradient>
+<linearGradient id="rim" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2e9ef7"/><stop offset="0.5" stop-color="#8e44ad"/><stop offset="1" stop-color="#ff5ca8"/></linearGradient>
+<linearGradient id="txt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7ee7ff"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="1" stop-color="#ffb3d9"/></linearGradient>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4ff" stop-opacity="0"/><stop offset="0.5" stop-color="#4ff" stop-opacity="0.18"/><stop offset="1" stop-color="#4ff" stop-opacity="0"/></linearGradient>
+<radialGradient id="vig" cx="0.5" cy="0.5" r="0.6"><stop offset="0.25" stop-color="#070a10" stop-opacity="0.92"/><stop offset="1" stop-color="#070a10" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1b2536" stroke-width="1" opacity="0.55"/></pattern>
+<clipPath id="frame"><rect x="0" y="0" width="1000" height="460" rx="14"/></clipPath>
+<clipPath id="type"><rect x="0" y="0" height="40" width="0" id="tw" transform="translate(300 292)">
+<animate attributeName="width" dur="16s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.01562;0.01937;0.02312;0.02687;0.03062;0.03438;0.03812;0.04188;0.04562;0.04938;0.05312;0.05688;0.06062;0.06438;0.06813;0.07187;0.07562;0.07938;0.08313;0.08687;0.09062;0.09438;0.09813;0.10187;0.10562;0.10938;0.11313;0.11688;0.12062;0.21875;0.26562;0.26937;0.27313;0.27687;0.28063;0.28437;0.28813;0.29187;0.29563;0.29938;0.30312;0.30688;0.31062;0.31438;0.31812;0.32188;0.32562;0.32937;0.33313;0.33687;0.34063;0.34437;0.34813;0.35187;0.46875;0.51562;0.51938;0.52312;0.52687;0.53063;0.53438;0.53812;0.54187;0.54563;0.54937;0.55312;0.55688;0.56063;0.56437;0.56812;0.57188;0.57563;0.57937;0.58313;0.58688;0.59062;0.59437;0.59813;0.60188;0.60562;0.60938;0.61313;0.61687;0.62062;0.71875;0.76562;0.76938;0.77312;0.77687;0.78063;0.78438;0.78812;0.79187;0.79563;0.79937;0.80312;0.80688;0.81063;0.81437;0.81812;0.82188;0.82563;0.82937;0.83313;0.83688;0.84062;0.84437;0.84813;0.85188;0.96875;1.00000" values="0;0.0;15.6;31.2;46.8;62.4;78.0;93.6;109.2;124.8;140.4;156.0;171.6;187.2;202.8;218.4;234.0;249.6;265.2;280.8;296.4;312.0;327.6;343.2;358.8;374.4;390.0;405.6;421.2;436.8;0;0.0;15.6;31.2;46.8;62.4;78.0;93.6;109.2;124.8;140.4;156.0;171.6;187.2;202.8;218.4;234.0;249.6;265.2;280.8;296.4;312.0;327.6;343.2;358.8;0;0.0;15.6;31.2;46.8;62.4;78.0;93.6;109.2;124.8;140.4;156.0;171.6;187.2;202.8;218.4;234.0;249.6;265.2;280.8;296.4;312.0;327.6;343.2;358.8;374.4;390.0;405.6;421.2;436.8;0;0.0;15.6;31.2;46.8;62.4;78.0;93.6;109.2;124.8;140.4;156.0;171.6;187.2;202.8;218.4;234.0;249.6;265.2;280.8;296.4;312.0;327.6;343.2;358.8;0;0"/></rect></clipPath>
+</defs>
+<style>text{font-family:"JetBrains Mono","Fira Code","SF Mono",Consolas,"DejaVu Sans Mono","Courier New",monospace}.rain{animation:fall linear infinite}@keyframes fall{from{transform:translateY(-330px)}to{transform:translateY(500px)}}.cy{animation:g1 4s infinite steps(1)}.mg{animation:g2 4s infinite steps(1)}@keyframes g1{0%,90%{transform:translate(0,0)}91%{transform:translate(-6px,1px)}93%{transform:translate(5px,-2px)}95%{transform:translate(-3px,0)}97%,100%{transform:translate(0,0)}}@keyframes g2{0%,90%{transform:translate(0,0)}91%{transform:translate(6px,-1px)}93%{transform:translate(-5px,2px)}95%{transform:translate(3px,0)}97%,100%{transform:translate(0,0)}}.pulse{animation:p 2s ease-in-out infinite}@keyframes p{0%,100%{opacity:.25}50%{opacity:1}}.node{animation:p 3s ease-in-out infinite}.scan{animation:sc 5s linear infinite}@keyframes sc{from{transform:translateY(-80px)}to{transform:translateY(520px)}}.rim{animation:rimp 3s ease-in-out infinite}@keyframes rimp{0%,100%{opacity:.7}50%{opacity:1}}.boot{opacity:0;animation:bootin .01s forwards}@keyframes bootin{to{opacity:1}}</style>
+<g clip-path="url(#frame)">
+<rect width="1000" height="460" fill="url(#bg)"/>
+<rect width="1000" height="460" fill="url(#grid)"/>
+<g class="rain" style="animation-duration:10.7s;animation-delay:-4.2s" opacity="0.5">
+<text x="24" y="0" font-size="15" fill="#2dff8a" opacity="0.09">1</text>
+<text x="24" y="20" font-size="15" fill="#2dff8a" opacity="0.18">&lt;</text>
+<text x="24" y="40" font-size="15" fill="#2dff8a" opacity="0.27">D</text>
+<text x="24" y="60" font-size="15" fill="#2dff8a" opacity="0.36">&gt;</text>
+<text x="24" y="80" font-size="15" fill="#2dff8a" opacity="0.45">;</text>
+<text x="24" y="100" font-size="15" fill="#2dff8a" opacity="0.55">E</text>
+<text x="24" y="120" font-size="15" fill="#2dff8a" opacity="0.64">1</text>
+<text x="24" y="140" font-size="15" fill="#2dff8a" opacity="0.73">C</text>
+<text x="24" y="160" font-size="15" fill="#2dff8a" opacity="0.82">}</text>
+<text x="24" y="180" font-size="15" fill="#2dff8a" opacity="0.91">1</text>
+<text x="24" y="200" font-size="15" fill="#e8fff2" opacity="1.0">&lt;</text>
+</g>
+<g class="rain" style="animation-duration:7.8s;animation-delay:-1.9s" opacity="0.5">
+<text x="60" y="0" font-size="15" fill="#2dff8a" opacity="0.08">D</text>
+<text x="60" y="20" font-size="15" fill="#2dff8a" opacity="0.17">*</text>
+<text x="60" y="40" font-size="15" fill="#2dff8a" opacity="0.25">1</text>
+<text x="60" y="60" font-size="15" fill="#2dff8a" opacity="0.33">E</text>
+<text x="60" y="80" font-size="15" fill="#2dff8a" opacity="0.42">&gt;</text>
+<text x="60" y="100" font-size="15" fill="#2dff8a" opacity="0.5">=</text>
+<text x="60" y="120" font-size="15" fill="#2dff8a" opacity="0.58">E</text>
+<text x="60" y="140" font-size="15" fill="#2dff8a" opacity="0.67">1</text>
+<text x="60" y="160" font-size="15" fill="#2dff8a" opacity="0.75">E</text>
+<text x="60" y="180" font-size="15" fill="#2dff8a" opacity="0.83">E</text>
+<text x="60" y="200" font-size="15" fill="#2dff8a" opacity="0.92">:</text>
+<text x="60" y="220" font-size="15" fill="#e8fff2" opacity="1.0">1</text>
+</g>
+<g class="rain" style="animation-duration:5.8s;animation-delay:-5.0s" opacity="0.5">
+<text x="96" y="0" font-size="15" fill="#2dff8a" opacity="0.1">$</text>
+<text x="96" y="20" font-size="15" fill="#2dff8a" opacity="0.2">*</text>
+<text x="96" y="40" font-size="15" fill="#2dff8a" opacity="0.3">/</text>
+<text x="96" y="60" font-size="15" fill="#2dff8a" opacity="0.4">D</text>
+<text x="96" y="80" font-size="15" fill="#2dff8a" opacity="0.5">&gt;</text>
+<text x="96" y="100" font-size="15" fill="#2dff8a" opacity="0.6">E</text>
+<text x="96" y="120" font-size="15" fill="#2dff8a" opacity="0.7">$</text>
+<text x="96" y="140" font-size="15" fill="#2dff8a" opacity="0.8">D</text>
+<text x="96" y="160" font-size="15" fill="#2dff8a" opacity="0.9">{</text>
+<text x="96" y="180" font-size="15" fill="#e8fff2" opacity="1.0">&gt;</text>
+</g>
+<g class="rain" style="animation-duration:8.6s;animation-delay:-1.6s" opacity="0.5">
+<text x="132" y="0" font-size="15" fill="#2dff8a" opacity="0.08">&gt;</text>
+<text x="132" y="20" font-size="15" fill="#2dff8a" opacity="0.15">D</text>
+<text x="132" y="40" font-size="15" fill="#2dff8a" opacity="0.23">&lt;</text>
+<text x="132" y="60" font-size="15" fill="#2dff8a" opacity="0.31">E</text>
+<text x="132" y="80" font-size="15" fill="#2dff8a" opacity="0.38">1</text>
+<text x="132" y="100" font-size="15" fill="#2dff8a" opacity="0.46">F</text>
+<text x="132" y="120" font-size="15" fill="#2dff8a" opacity="0.54">}</text>
+<text x="132" y="140" font-size="15" fill="#2dff8a" opacity="0.62">B</text>
+<text x="132" y="160" font-size="15" fill="#2dff8a" opacity="0.69">D</text>
+<text x="132" y="180" font-size="15" fill="#2dff8a" opacity="0.77">*</text>
+<text x="132" y="200" font-size="15" fill="#2dff8a" opacity="0.85">#</text>
+<text x="132" y="220" font-size="15" fill="#2dff8a" opacity="0.92">A</text>
+<text x="132" y="240" font-size="15" fill="#e8fff2" opacity="1.0">E</text>
+</g>
+<g class="rain" style="animation-duration:7.5s;animation-delay:-1.9s" opacity="0.5">
+<text x="168" y="0" font-size="15" fill="#2dff8a" opacity="0.08">{</text>
+<text x="168" y="20" font-size="15" fill="#2dff8a" opacity="0.17">=</text>
+<text x="168" y="40" font-size="15" fill="#2dff8a" opacity="0.25">&lt;</text>
+<text x="168" y="60" font-size="15" fill="#2dff8a" opacity="0.33">E</text>
+<text x="168" y="80" font-size="15" fill="#2dff8a" opacity="0.42">$</text>
+<text x="168" y="100" font-size="15" fill="#2dff8a" opacity="0.5">C</text>
+<text x="168" y="120" font-size="15" fill="#2dff8a" opacity="0.58">B</text>
+<text x="168" y="140" font-size="15" fill="#2dff8a" opacity="0.67">#</text>
+<text x="168" y="160" font-size="15" fill="#2dff8a" opacity="0.75">A</text>
+<text x="168" y="180" font-size="15" fill="#2dff8a" opacity="0.83">$</text>
+<text x="168" y="200" font-size="15" fill="#2dff8a" opacity="0.92">F</text>
+<text x="168" y="220" font-size="15" fill="#e8fff2" opacity="1.0">&lt;</text>
+</g>
+<g class="rain" style="animation-duration:8.3s;animation-delay:-1.4s" opacity="0.5">
+<text x="204" y="0" font-size="15" fill="#2dff8a" opacity="0.11">#</text>
+<text x="204" y="20" font-size="15" fill="#2dff8a" opacity="0.22">/</text>
+<text x="204" y="40" font-size="15" fill="#2dff8a" opacity="0.33">B</text>
+<text x="204" y="60" font-size="15" fill="#2dff8a" opacity="0.44">*</text>
+<text x="204" y="80" font-size="15" fill="#2dff8a" opacity="0.56">1</text>
+<text x="204" y="100" font-size="15" fill="#2dff8a" opacity="0.67">&lt;</text>
+<text x="204" y="120" font-size="15" fill="#2dff8a" opacity="0.78">D</text>
+<text x="204" y="140" font-size="15" fill="#2dff8a" opacity="0.89">E</text>
+<text x="204" y="160" font-size="15" fill="#e8fff2" opacity="1.0">#</text>
+</g>
+<g class="rain" style="animation-duration:9.3s;animation-delay:-5.5s" opacity="0.5">
+<text x="240" y="0" font-size="15" fill="#2dff8a" opacity="0.09">E</text>
+<text x="240" y="20" font-size="15" fill="#2dff8a" opacity="0.18">A</text>
+<text x="240" y="40" font-size="15" fill="#2dff8a" opacity="0.27">&lt;</text>
+<text x="240" y="60" font-size="15" fill="#2dff8a" opacity="0.36">&lt;</text>
+<text x="240" y="80" font-size="15" fill="#2dff8a" opacity="0.45">+</text>
+<text x="240" y="100" font-size="15" fill="#2dff8a" opacity="0.55">B</text>
+<text x="240" y="120" font-size="15" fill="#2dff8a" opacity="0.64">&lt;</text>
+<text x="240" y="140" font-size="15" fill="#2dff8a" opacity="0.73">1</text>
+<text x="240" y="160" font-size="15" fill="#2dff8a" opacity="0.82">$</text>
+<text x="240" y="180" font-size="15" fill="#2dff8a" opacity="0.91">E</text>
+<text x="240" y="200" font-size="15" fill="#e8fff2" opacity="1.0">A</text>
+</g>
+<g class="rain" style="animation-duration:9.4s;animation-delay:-8.3s" opacity="0.5">
+<text x="276" y="0" font-size="15" fill="#2dff8a" opacity="0.09">;</text>
+<text x="276" y="20" font-size="15" fill="#2dff8a" opacity="0.18">0</text>
+<text x="276" y="40" font-size="15" fill="#2dff8a" opacity="0.27">A</text>
+<text x="276" y="60" font-size="15" fill="#2dff8a" opacity="0.36">;</text>
+<text x="276" y="80" font-size="15" fill="#2dff8a" opacity="0.45">{</text>
+<text x="276" y="100" font-size="15" fill="#2dff8a" opacity="0.55">F</text>
+<text x="276" y="120" font-size="15" fill="#2dff8a" opacity="0.64">&gt;</text>
+<text x="276" y="140" font-size="15" fill="#2dff8a" opacity="0.73">B</text>
+<text x="276" y="160" font-size="15" fill="#2dff8a" opacity="0.82">1</text>
+<text x="276" y="180" font-size="15" fill="#2dff8a" opacity="0.91">}</text>
+<text x="276" y="200" font-size="15" fill="#e8fff2" opacity="1.0">$</text>
+</g>
+<g class="rain" style="animation-duration:9.6s;animation-delay:-3.8s" opacity="0.5">
+<text x="312" y="0" font-size="15" fill="#2dff8a" opacity="0.1">B</text>
+<text x="312" y="20" font-size="15" fill="#2dff8a" opacity="0.2">&lt;</text>
+<text x="312" y="40" font-size="15" fill="#2dff8a" opacity="0.3">{</text>
+<text x="312" y="60" font-size="15" fill="#2dff8a" opacity="0.4">A</text>
+<text x="312" y="80" font-size="15" fill="#2dff8a" opacity="0.5">:</text>
+<text x="312" y="100" font-size="15" fill="#2dff8a" opacity="0.6">D</text>
+<text x="312" y="120" font-size="15" fill="#2dff8a" opacity="0.7">+</text>
+<text x="312" y="140" font-size="15" fill="#2dff8a" opacity="0.8">/</text>
+<text x="312" y="160" font-size="15" fill="#2dff8a" opacity="0.9">*</text>
+<text x="312" y="180" font-size="15" fill="#e8fff2" opacity="1.0">D</text>
+</g>
+<g class="rain" style="animation-duration:9.4s;animation-delay:-9.3s" opacity="0.5">
+<text x="348" y="0" font-size="15" fill="#2dff8a" opacity="0.09">:</text>
+<text x="348" y="20" font-size="15" fill="#2dff8a" opacity="0.18">=</text>
+<text x="348" y="40" font-size="15" fill="#2dff8a" opacity="0.27">/</text>
+<text x="348" y="60" font-size="15" fill="#2dff8a" opacity="0.36">&lt;</text>
+<text x="348" y="80" font-size="15" fill="#2dff8a" opacity="0.45">{</text>
+<text x="348" y="100" font-size="15" fill="#2dff8a" opacity="0.55">/</text>
+<text x="348" y="120" font-size="15" fill="#2dff8a" opacity="0.64">=</text>
+<text x="348" y="140" font-size="15" fill="#2dff8a" opacity="0.73">=</text>
+<text x="348" y="160" font-size="15" fill="#2dff8a" opacity="0.82">0</text>
+<text x="348" y="180" font-size="15" fill="#2dff8a" opacity="0.91">B</text>
+<text x="348" y="200" font-size="15" fill="#e8fff2" opacity="1.0">E</text>
+</g>
+<g class="rain" style="animation-duration:6.9s;animation-delay:-0.0s" opacity="0.5">
+<text x="384" y="0" font-size="15" fill="#2dff8a" opacity="0.1">*</text>
+<text x="384" y="20" font-size="15" fill="#2dff8a" opacity="0.2">D</text>
+<text x="384" y="40" font-size="15" fill="#2dff8a" opacity="0.3">;</text>
+<text x="384" y="60" font-size="15" fill="#2dff8a" opacity="0.4">F</text>
+<text x="384" y="80" font-size="15" fill="#2dff8a" opacity="0.5">E</text>
+<text x="384" y="100" font-size="15" fill="#2dff8a" opacity="0.6">#</text>
+<text x="384" y="120" font-size="15" fill="#2dff8a" opacity="0.7">/</text>
+<text x="384" y="140" font-size="15" fill="#2dff8a" opacity="0.8">C</text>
+<text x="384" y="160" font-size="15" fill="#2dff8a" opacity="0.9">F</text>
+<text x="384" y="180" font-size="15" fill="#e8fff2" opacity="1.0">1</text>
+</g>
+<g class="rain" style="animation-duration:10.4s;animation-delay:-8.1s" opacity="0.5">
+<text x="420" y="0" font-size="15" fill="#2dff8a" opacity="0.08">D</text>
+<text x="420" y="20" font-size="15" fill="#2dff8a" opacity="0.17">:</text>
+<text x="420" y="40" font-size="15" fill="#2dff8a" opacity="0.25">:</text>
+<text x="420" y="60" font-size="15" fill="#2dff8a" opacity="0.33">:</text>
+<text x="420" y="80" font-size="15" fill="#2dff8a" opacity="0.42">:</text>
+<text x="420" y="100" font-size="15" fill="#2dff8a" opacity="0.5">&gt;</text>
+<text x="420" y="120" font-size="15" fill="#2dff8a" opacity="0.58">B</text>
+<text x="420" y="140" font-size="15" fill="#2dff8a" opacity="0.67">:</text>
+<text x="420" y="160" font-size="15" fill="#2dff8a" opacity="0.75">1</text>
+<text x="420" y="180" font-size="15" fill="#2dff8a" opacity="0.83">}</text>
+<text x="420" y="200" font-size="15" fill="#2dff8a" opacity="0.92">&lt;</text>
+<text x="420" y="220" font-size="15" fill="#e8fff2" opacity="1.0">}</text>
+</g>
+<g class="rain" style="animation-duration:6.4s;animation-delay:-2.2s" opacity="0.5">
+<text x="456" y="0" font-size="15" fill="#2dff8a" opacity="0.08">1</text>
+<text x="456" y="20" font-size="15" fill="#2dff8a" opacity="0.17">&gt;</text>
+<text x="456" y="40" font-size="15" fill="#2dff8a" opacity="0.25">0</text>
+<text x="456" y="60" font-size="15" fill="#2dff8a" opacity="0.33">E</text>
+<text x="456" y="80" font-size="15" fill="#2dff8a" opacity="0.42">/</text>
+<text x="456" y="100" font-size="15" fill="#2dff8a" opacity="0.5">D</text>
+<text x="456" y="120" font-size="15" fill="#2dff8a" opacity="0.58">&gt;</text>
+<text x="456" y="140" font-size="15" fill="#2dff8a" opacity="0.67">;</text>
+<text x="456" y="160" font-size="15" fill="#2dff8a" opacity="0.75">F</text>
+<text x="456" y="180" font-size="15" fill="#2dff8a" opacity="0.83">0</text>
+<text x="456" y="200" font-size="15" fill="#2dff8a" opacity="0.92">&lt;</text>
+<text x="456" y="220" font-size="15" fill="#e8fff2" opacity="1.0">}</text>
+</g>
+<g class="rain" style="animation-duration:7.6s;animation-delay:-4.8s" opacity="0.5">
+<text x="492" y="0" font-size="15" fill="#2dff8a" opacity="0.08">;</text>
+<text x="492" y="20" font-size="15" fill="#2dff8a" opacity="0.15">F</text>
+<text x="492" y="40" font-size="15" fill="#2dff8a" opacity="0.23">;</text>
+<text x="492" y="60" font-size="15" fill="#2dff8a" opacity="0.31">B</text>
+<text x="492" y="80" font-size="15" fill="#2dff8a" opacity="0.38">&gt;</text>
+<text x="492" y="100" font-size="15" fill="#2dff8a" opacity="0.46">&gt;</text>
+<text x="492" y="120" font-size="15" fill="#2dff8a" opacity="0.54">B</text>
+<text x="492" y="140" font-size="15" fill="#2dff8a" opacity="0.62">A</text>
+<text x="492" y="160" font-size="15" fill="#2dff8a" opacity="0.69">B</text>
+<text x="492" y="180" font-size="15" fill="#2dff8a" opacity="0.77">B</text>
+<text x="492" y="200" font-size="15" fill="#2dff8a" opacity="0.85">$</text>
+<text x="492" y="220" font-size="15" fill="#2dff8a" opacity="0.92">&lt;</text>
+<text x="492" y="240" font-size="15" fill="#e8fff2" opacity="1.0">/</text>
+</g>
+<g class="rain" style="animation-duration:9.6s;animation-delay:-7.1s" opacity="0.5">
+<text x="528" y="0" font-size="15" fill="#2dff8a" opacity="0.11">B</text>
+<text x="528" y="20" font-size="15" fill="#2dff8a" opacity="0.22">{</text>
+<text x="528" y="40" font-size="15" fill="#2dff8a" opacity="0.33">C</text>
+<text x="528" y="60" font-size="15" fill="#2dff8a" opacity="0.44">0</text>
+<text x="528" y="80" font-size="15" fill="#2dff8a" opacity="0.56">}</text>
+<text x="528" y="100" font-size="15" fill="#2dff8a" opacity="0.67">C</text>
+<text x="528" y="120" font-size="15" fill="#2dff8a" opacity="0.78">;</text>
+<text x="528" y="140" font-size="15" fill="#2dff8a" opacity="0.89">/</text>
+<text x="528" y="160" font-size="15" fill="#e8fff2" opacity="1.0">D</text>
+</g>
+<g class="rain" style="animation-duration:9.7s;animation-delay:-2.9s" opacity="0.5">
+<text x="564" y="0" font-size="15" fill="#2dff8a" opacity="0.11">&lt;</text>
+<text x="564" y="20" font-size="15" fill="#2dff8a" opacity="0.22">+</text>
+<text x="564" y="40" font-size="15" fill="#2dff8a" opacity="0.33">C</text>
+<text x="564" y="60" font-size="15" fill="#2dff8a" opacity="0.44">;</text>
+<text x="564" y="80" font-size="15" fill="#2dff8a" opacity="0.56">{</text>
+<text x="564" y="100" font-size="15" fill="#2dff8a" opacity="0.67">;</text>
+<text x="564" y="120" font-size="15" fill="#2dff8a" opacity="0.78">=</text>
+<text x="564" y="140" font-size="15" fill="#2dff8a" opacity="0.89">D</text>
+<text x="564" y="160" font-size="15" fill="#e8fff2" opacity="1.0">D</text>
+</g>
+<g class="rain" style="animation-duration:7.3s;animation-delay:-1.6s" opacity="0.5">
+<text x="600" y="0" font-size="15" fill="#2dff8a" opacity="0.08">}</text>
+<text x="600" y="20" font-size="15" fill="#2dff8a" opacity="0.15">=</text>
+<text x="600" y="40" font-size="15" fill="#2dff8a" opacity="0.23">:</text>
+<text x="600" y="60" font-size="15" fill="#2dff8a" opacity="0.31">=</text>
+<text x="600" y="80" font-size="15" fill="#2dff8a" opacity="0.38">}</text>
+<text x="600" y="100" font-size="15" fill="#2dff8a" opacity="0.46">C</text>
+<text x="600" y="120" font-size="15" fill="#2dff8a" opacity="0.54">B</text>
+<text x="600" y="140" font-size="15" fill="#2dff8a" opacity="0.62">;</text>
+<text x="600" y="160" font-size="15" fill="#2dff8a" opacity="0.69">0</text>
+<text x="600" y="180" font-size="15" fill="#2dff8a" opacity="0.77">0</text>
+<text x="600" y="200" font-size="15" fill="#2dff8a" opacity="0.85">+</text>
+<text x="600" y="220" font-size="15" fill="#2dff8a" opacity="0.92">B</text>
+<text x="600" y="240" font-size="15" fill="#e8fff2" opacity="1.0">+</text>
+</g>
+<g class="rain" style="animation-duration:9.3s;animation-delay:-8.9s" opacity="0.5">
+<text x="636" y="0" font-size="15" fill="#2dff8a" opacity="0.1">A</text>
+<text x="636" y="20" font-size="15" fill="#2dff8a" opacity="0.2">;</text>
+<text x="636" y="40" font-size="15" fill="#2dff8a" opacity="0.3">;</text>
+<text x="636" y="60" font-size="15" fill="#2dff8a" opacity="0.4">&lt;</text>
+<text x="636" y="80" font-size="15" fill="#2dff8a" opacity="0.5">=</text>
+<text x="636" y="100" font-size="15" fill="#2dff8a" opacity="0.6">&gt;</text>
+<text x="636" y="120" font-size="15" fill="#2dff8a" opacity="0.7">=</text>
+<text x="636" y="140" font-size="15" fill="#2dff8a" opacity="0.8">B</text>
+<text x="636" y="160" font-size="15" fill="#2dff8a" opacity="0.9">}</text>
+<text x="636" y="180" font-size="15" fill="#e8fff2" opacity="1.0">#</text>
+</g>
+<g class="rain" style="animation-duration:8.2s;animation-delay:-8.1s" opacity="0.5">
+<text x="672" y="0" font-size="15" fill="#2dff8a" opacity="0.1">F</text>
+<text x="672" y="20" font-size="15" fill="#2dff8a" opacity="0.2">0</text>
+<text x="672" y="40" font-size="15" fill="#2dff8a" opacity="0.3">B</text>
+<text x="672" y="60" font-size="15" fill="#2dff8a" opacity="0.4">;</text>
+<text x="672" y="80" font-size="15" fill="#2dff8a" opacity="0.5">&lt;</text>
+<text x="672" y="100" font-size="15" fill="#2dff8a" opacity="0.6">&gt;</text>
+<text x="672" y="120" font-size="15" fill="#2dff8a" opacity="0.7">:</text>
+<text x="672" y="140" font-size="15" fill="#2dff8a" opacity="0.8">}</text>
+<text x="672" y="160" font-size="15" fill="#2dff8a" opacity="0.9">B</text>
+<text x="672" y="180" font-size="15" fill="#e8fff2" opacity="1.0">{</text>
+</g>
+<g class="rain" style="animation-duration:9.8s;animation-delay:-3.3s" opacity="0.5">
+<text x="708" y="0" font-size="15" fill="#2dff8a" opacity="0.08">:</text>
+<text x="708" y="20" font-size="15" fill="#2dff8a" opacity="0.17">A</text>
+<text x="708" y="40" font-size="15" fill="#2dff8a" opacity="0.25">:</text>
+<text x="708" y="60" font-size="15" fill="#2dff8a" opacity="0.33">&lt;</text>
+<text x="708" y="80" font-size="15" fill="#2dff8a" opacity="0.42">{</text>
+<text x="708" y="100" font-size="15" fill="#2dff8a" opacity="0.5">{</text>
+<text x="708" y="120" font-size="15" fill="#2dff8a" opacity="0.58">/</text>
+<text x="708" y="140" font-size="15" fill="#2dff8a" opacity="0.67">0</text>
+<text x="708" y="160" font-size="15" fill="#2dff8a" opacity="0.75">/</text>
+<text x="708" y="180" font-size="15" fill="#2dff8a" opacity="0.83">E</text>
+<text x="708" y="200" font-size="15" fill="#2dff8a" opacity="0.92">A</text>
+<text x="708" y="220" font-size="15" fill="#e8fff2" opacity="1.0">/</text>
+</g>
+<g class="rain" style="animation-duration:10.0s;animation-delay:-9.8s" opacity="0.5">
+<text x="744" y="0" font-size="15" fill="#2dff8a" opacity="0.08">;</text>
+<text x="744" y="20" font-size="15" fill="#2dff8a" opacity="0.15">/</text>
+<text x="744" y="40" font-size="15" fill="#2dff8a" opacity="0.23">D</text>
+<text x="744" y="60" font-size="15" fill="#2dff8a" opacity="0.31">D</text>
+<text x="744" y="80" font-size="15" fill="#2dff8a" opacity="0.38">/</text>
+<text x="744" y="100" font-size="15" fill="#2dff8a" opacity="0.46">0</text>
+<text x="744" y="120" font-size="15" fill="#2dff8a" opacity="0.54">0</text>
+<text x="744" y="140" font-size="15" fill="#2dff8a" opacity="0.62">&gt;</text>
+<text x="744" y="160" font-size="15" fill="#2dff8a" opacity="0.69">C</text>
+<text x="744" y="180" font-size="15" fill="#2dff8a" opacity="0.77">/</text>
+<text x="744" y="200" font-size="15" fill="#2dff8a" opacity="0.85">*</text>
+<text x="744" y="220" font-size="15" fill="#2dff8a" opacity="0.92">}</text>
+<text x="744" y="240" font-size="15" fill="#e8fff2" opacity="1.0">}</text>
+</g>
+<g class="rain" style="animation-duration:6.9s;animation-delay:-2.0s" opacity="0.5">
+<text x="780" y="0" font-size="15" fill="#2dff8a" opacity="0.11">=</text>
+<text x="780" y="20" font-size="15" fill="#2dff8a" opacity="0.22">E</text>
+<text x="780" y="40" font-size="15" fill="#2dff8a" opacity="0.33">#</text>
+<text x="780" y="60" font-size="15" fill="#2dff8a" opacity="0.44">+</text>
+<text x="780" y="80" font-size="15" fill="#2dff8a" opacity="0.56">D</text>
+<text x="780" y="100" font-size="15" fill="#2dff8a" opacity="0.67">*</text>
+<text x="780" y="120" font-size="15" fill="#2dff8a" opacity="0.78">/</text>
+<text x="780" y="140" font-size="15" fill="#2dff8a" opacity="0.89">1</text>
+<text x="780" y="160" font-size="15" fill="#e8fff2" opacity="1.0">;</text>
+</g>
+<g class="rain" style="animation-duration:9.1s;animation-delay:-7.4s" opacity="0.5">
+<text x="816" y="0" font-size="15" fill="#2dff8a" opacity="0.08">C</text>
+<text x="816" y="20" font-size="15" fill="#2dff8a" opacity="0.17">*</text>
+<text x="816" y="40" font-size="15" fill="#2dff8a" opacity="0.25">C</text>
+<text x="816" y="60" font-size="15" fill="#2dff8a" opacity="0.33">/</text>
+<text x="816" y="80" font-size="15" fill="#2dff8a" opacity="0.42">D</text>
+<text x="816" y="100" font-size="15" fill="#2dff8a" opacity="0.5">/</text>
+<text x="816" y="120" font-size="15" fill="#2dff8a" opacity="0.58">C</text>
+<text x="816" y="140" font-size="15" fill="#2dff8a" opacity="0.67">C</text>
+<text x="816" y="160" font-size="15" fill="#2dff8a" opacity="0.75">0</text>
+<text x="816" y="180" font-size="15" fill="#2dff8a" opacity="0.83">A</text>
+<text x="816" y="200" font-size="15" fill="#2dff8a" opacity="0.92">{</text>
+<text x="816" y="220" font-size="15" fill="#e8fff2" opacity="1.0">F</text>
+</g>
+<g class="rain" style="animation-duration:9.8s;animation-delay:-1.5s" opacity="0.5">
+<text x="852" y="0" font-size="15" fill="#2dff8a" opacity="0.11">/</text>
+<text x="852" y="20" font-size="15" fill="#2dff8a" opacity="0.22">B</text>
+<text x="852" y="40" font-size="15" fill="#2dff8a" opacity="0.33">F</text>
+<text x="852" y="60" font-size="15" fill="#2dff8a" opacity="0.44">&gt;</text>
+<text x="852" y="80" font-size="15" fill="#2dff8a" opacity="0.56">D</text>
+<text x="852" y="100" font-size="15" fill="#2dff8a" opacity="0.67">1</text>
+<text x="852" y="120" font-size="15" fill="#2dff8a" opacity="0.78">#</text>
+<text x="852" y="140" font-size="15" fill="#2dff8a" opacity="0.89">C</text>
+<text x="852" y="160" font-size="15" fill="#e8fff2" opacity="1.0">C</text>
+</g>
+<g class="rain" style="animation-duration:8.2s;animation-delay:-6.4s" opacity="0.5">
+<text x="888" y="0" font-size="15" fill="#2dff8a" opacity="0.08">D</text>
+<text x="888" y="20" font-size="15" fill="#2dff8a" opacity="0.15">1</text>
+<text x="888" y="40" font-size="15" fill="#2dff8a" opacity="0.23">=</text>
+<text x="888" y="60" font-size="15" fill="#2dff8a" opacity="0.31">}</text>
+<text x="888" y="80" font-size="15" fill="#2dff8a" opacity="0.38">+</text>
+<text x="888" y="100" font-size="15" fill="#2dff8a" opacity="0.46">1</text>
+<text x="888" y="120" font-size="15" fill="#2dff8a" opacity="0.54">&gt;</text>
+<text x="888" y="140" font-size="15" fill="#2dff8a" opacity="0.62">C</text>
+<text x="888" y="160" font-size="15" fill="#2dff8a" opacity="0.69">A</text>
+<text x="888" y="180" font-size="15" fill="#2dff8a" opacity="0.77">D</text>
+<text x="888" y="200" font-size="15" fill="#2dff8a" opacity="0.85">0</text>
+<text x="888" y="220" font-size="15" fill="#2dff8a" opacity="0.92">&lt;</text>
+<text x="888" y="240" font-size="15" fill="#e8fff2" opacity="1.0">A</text>
+</g>
+<g class="rain" style="animation-duration:8.9s;animation-delay:-4.5s" opacity="0.5">
+<text x="924" y="0" font-size="15" fill="#2dff8a" opacity="0.09">C</text>
+<text x="924" y="20" font-size="15" fill="#2dff8a" opacity="0.18">}</text>
+<text x="924" y="40" font-size="15" fill="#2dff8a" opacity="0.27">+</text>
+<text x="924" y="60" font-size="15" fill="#2dff8a" opacity="0.36">A</text>
+<text x="924" y="80" font-size="15" fill="#2dff8a" opacity="0.45">C</text>
+<text x="924" y="100" font-size="15" fill="#2dff8a" opacity="0.55">D</text>
+<text x="924" y="120" font-size="15" fill="#2dff8a" opacity="0.64">B</text>
+<text x="924" y="140" font-size="15" fill="#2dff8a" opacity="0.73">C</text>
+<text x="924" y="160" font-size="15" fill="#2dff8a" opacity="0.82">=</text>
+<text x="924" y="180" font-size="15" fill="#2dff8a" opacity="0.91">C</text>
+<text x="924" y="200" font-size="15" fill="#e8fff2" opacity="1.0">+</text>
+</g>
+<g class="rain" style="animation-duration:10.4s;animation-delay:-2.1s" opacity="0.5">
+<text x="960" y="0" font-size="15" fill="#2dff8a" opacity="0.08">A</text>
+<text x="960" y="20" font-size="15" fill="#2dff8a" opacity="0.15">/</text>
+<text x="960" y="40" font-size="15" fill="#2dff8a" opacity="0.23">*</text>
+<text x="960" y="60" font-size="15" fill="#2dff8a" opacity="0.31">&gt;</text>
+<text x="960" y="80" font-size="15" fill="#2dff8a" opacity="0.38">:</text>
+<text x="960" y="100" font-size="15" fill="#2dff8a" opacity="0.46">A</text>
+<text x="960" y="120" font-size="15" fill="#2dff8a" opacity="0.54">#</text>
+<text x="960" y="140" font-size="15" fill="#2dff8a" opacity="0.62">&lt;</text>
+<text x="960" y="160" font-size="15" fill="#2dff8a" opacity="0.69">=</text>
+<text x="960" y="180" font-size="15" fill="#2dff8a" opacity="0.77">*</text>
+<text x="960" y="200" font-size="15" fill="#2dff8a" opacity="0.85">&lt;</text>
+<text x="960" y="220" font-size="15" fill="#2dff8a" opacity="0.92">}</text>
+<text x="960" y="240" font-size="15" fill="#e8fff2" opacity="1.0">$</text>
+</g>
+<g class="rain" style="animation-duration:10.4s;animation-delay:-1.6s" opacity="0.5">
+<text x="996" y="0" font-size="15" fill="#2dff8a" opacity="0.11">;</text>
+<text x="996" y="20" font-size="15" fill="#2dff8a" opacity="0.22">/</text>
+<text x="996" y="40" font-size="15" fill="#2dff8a" opacity="0.33">+</text>
+<text x="996" y="60" font-size="15" fill="#2dff8a" opacity="0.44">/</text>
+<text x="996" y="80" font-size="15" fill="#2dff8a" opacity="0.56">A</text>
+<text x="996" y="100" font-size="15" fill="#2dff8a" opacity="0.67">=</text>
+<text x="996" y="120" font-size="15" fill="#2dff8a" opacity="0.78">&gt;</text>
+<text x="996" y="140" font-size="15" fill="#2dff8a" opacity="0.89">:</text>
+<text x="996" y="160" font-size="15" fill="#e8fff2" opacity="1.0">B</text>
+</g>
+<line x1="120" y1="95" x2="210" y2="150" stroke="#2e9ef7" stroke-width="1" opacity="0.35"/>
+<line x1="210" y1="150" x2="95" y2="210" stroke="#2e9ef7" stroke-width="1" opacity="0.35"/>
+<line x1="210" y1="150" x2="215" y2="260" stroke="#2e9ef7" stroke-width="1" opacity="0.35"/>
+<line x1="95" y1="210" x2="215" y2="260" stroke="#2e9ef7" stroke-width="1" opacity="0.35"/>
+<line x1="215" y1="260" x2="130" y2="340" stroke="#2e9ef7" stroke-width="1" opacity="0.35"/>
+<line x1="120" y1="95" x2="95" y2="210" stroke="#2e9ef7" stroke-width="1" opacity="0.35"/>
+<line x1="850" y1="90" x2="780" y2="160" stroke="#2e9ef7" stroke-width="1" opacity="0.35"/>
+<line x1="780" y1="160" x2="905" y2="215" stroke="#2e9ef7" stroke-width="1" opacity="0.35"/>
+<line x1="780" y1="160" x2="800" y2="275" stroke="#2e9ef7" stroke-width="1" opacity="0.35"/>
+<line x1="905" y1="215" x2="800" y2="275" stroke="#2e9ef7" stroke-width="1" opacity="0.35"/>
+<line x1="800" y1="275" x2="880" y2="350" stroke="#2e9ef7" stroke-width="1" opacity="0.35"/>
+<line x1="850" y1="90" x2="905" y2="215" stroke="#2e9ef7" stroke-width="1" opacity="0.35"/>
+<line x1="720" y1="95" x2="780" y2="160" stroke="#2e9ef7" stroke-width="1" opacity="0.35"/>
+<line x1="720" y1="95" x2="850" y2="90" stroke="#2e9ef7" stroke-width="1" opacity="0.35"/>
+<line x1="250" y1="360" x2="130" y2="340" stroke="#2e9ef7" stroke-width="1" opacity="0.35"/>
+<line x1="250" y1="360" x2="215" y2="260" stroke="#2e9ef7" stroke-width="1" opacity="0.35"/>
+<line x1="760" y1="350" x2="800" y2="275" stroke="#2e9ef7" stroke-width="1" opacity="0.35"/>
+<line x1="760" y1="350" x2="880" y2="350" stroke="#2e9ef7" stroke-width="1" opacity="0.35"/>
+<circle class="node" style="animation-delay:0.00s" cx="120" cy="95" r="4.5" fill="#7ee7ff" filter="url(#glow)"/>
+<circle class="node" style="animation-delay:-0.37s" cx="210" cy="150" r="4.5" fill="#7ee7ff" filter="url(#glow)"/>
+<circle class="node" style="animation-delay:-0.74s" cx="95" cy="210" r="4.5" fill="#7ee7ff" filter="url(#glow)"/>
+<circle class="node" style="animation-delay:-1.11s" cx="215" cy="260" r="4.5" fill="#7ee7ff" filter="url(#glow)"/>
+<circle class="node" style="animation-delay:-1.48s" cx="130" cy="340" r="4.5" fill="#7ee7ff" filter="url(#glow)"/>
+<circle class="node" style="animation-delay:-1.85s" cx="850" cy="90" r="4.5" fill="#7ee7ff" filter="url(#glow)"/>
+<circle class="node" style="animation-delay:-2.22s" cx="780" cy="160" r="4.5" fill="#7ee7ff" filter="url(#glow)"/>
+<circle class="node" style="animation-delay:-2.59s" cx="905" cy="215" r="4.5" fill="#7ee7ff" filter="url(#glow)"/>
+<circle class="node" style="animation-delay:-2.96s" cx="800" cy="275" r="4.5" fill="#7ee7ff" filter="url(#glow)"/>
+<circle class="node" style="animation-delay:-3.33s" cx="880" cy="350" r="4.5" fill="#7ee7ff" filter="url(#glow)"/>
+<circle class="node" style="animation-delay:-3.70s" cx="720" cy="95" r="4.5" fill="#7ee7ff" filter="url(#glow)"/>
+<circle class="node" style="animation-delay:-4.07s" cx="250" cy="360" r="4.5" fill="#7ee7ff" filter="url(#glow)"/>
+<circle class="node" style="animation-delay:-4.44s" cx="760" cy="350" r="4.5" fill="#7ee7ff" filter="url(#glow)"/>
+<rect width="1000" height="460" fill="url(#vig)"/>
+<rect x="0" y="0" width="1000" height="46" fill="#141922" opacity="0.92"/>
+<circle cx="30" cy="23" r="7" fill="#ff5f56"/><circle cx="54" cy="23" r="7" fill="#ffbd2e"/><circle cx="78" cy="23" r="7" fill="#27c93f"/>
+<text x="500" y="28" font-size="14" fill="#8b95a5" text-anchor="middle">omkar@github ~ zsh</text>
+<g font-size="13">
+<text class="boot" style="animation-delay:0.2s" x="28" y="74" fill="#27c93f">$ ./boot --hero</text>
+<text class="boot" style="animation-delay:0.9s" x="28" y="94" fill="#7ee7ff">[ OK ] ai.core</text>
+<text class="boot" style="animation-delay:1.5s" x="28" y="114" fill="#7ee7ff">[ OK ] data.pipeline</text>
+<text class="boot" style="animation-delay:2.1s" x="28" y="134" fill="#ffb86c">[ OK ] coffee.supply</text>
+</g>
+<circle class="pulse" cx="838" cy="69" r="5" fill="#27c93f" filter="url(#glow)"/>
+<text x="852" y="74" font-size="13" fill="#27c93f">STATUS: ONLINE</text>
+<text class="cy" x="500" y="205" font-size="68" font-weight="800" text-anchor="middle" textLength="640" lengthAdjust="spacing" fill="#00f0ff" opacity="0.85">OMKAR NARSALE</text>
+<text class="mg" x="500" y="205" font-size="68" font-weight="800" text-anchor="middle" textLength="640" lengthAdjust="spacing" fill="#ff2d95" opacity="0.85">OMKAR NARSALE</text>
+<text x="500" y="205" font-size="68" font-weight="800" text-anchor="middle" textLength="640" lengthAdjust="spacing" fill="url(#txt)" filter="url(#glow)">OMKAR NARSALE</text>
+<text x="500" y="250" font-size="16" fill="#8b95a5" text-anchor="middle" letter-spacing="5">B.TECH IT  ·  SAKEC  ·  NAVI MUMBAI</text>
+<text x="262" y="318" font-size="26" fill="#27c93f">&gt;_</text>
+<g clip-path="url(#type)" transform="translate(0 0)">
+<text x="300" y="318" font-size="26" fill="#ffffff" textLength="436.8" lengthAdjust="spacing" opacity="0">AI/ML Engineer in the making<animate attributeName="opacity" dur="16s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.01250;0.21875;1.00000" values="0;1;0;0"/></text>
+<text x="300" y="318" font-size="26" fill="#ffffff" textLength="358.8" lengthAdjust="spacing" opacity="0">Building RAG + LLM apps<animate attributeName="opacity" dur="16s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.26250;0.46875;1.00000" values="0;1;0;0"/></text>
+<text x="300" y="318" font-size="26" fill="#ffffff" textLength="436.8" lengthAdjust="spacing" opacity="0">Turning data into dashboards<animate attributeName="opacity" dur="16s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.51250;0.71875;1.00000" values="0;1;0;0"/></text>
+<text x="300" y="318" font-size="26" fill="#ffffff" textLength="358.8" lengthAdjust="spacing" opacity="0">Solving LeetCode, daily<animate attributeName="opacity" dur="16s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.76250;0.96875;1.00000" values="0;1;0;0"/></text>
+</g>
+<rect x="302" y="297" width="12" height="26" fill="#27c93f"><animate attributeName="x" dur="16s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.01562;0.01937;0.02312;0.02687;0.03062;0.03438;0.03812;0.04188;0.04562;0.04938;0.05312;0.05688;0.06062;0.06438;0.06813;0.07187;0.07562;0.07938;0.08313;0.08687;0.09062;0.09438;0.09813;0.10187;0.10562;0.10938;0.11313;0.11688;0.12062;0.21875;0.26562;0.26937;0.27313;0.27687;0.28063;0.28437;0.28813;0.29187;0.29563;0.29938;0.30312;0.30688;0.31062;0.31438;0.31812;0.32188;0.32562;0.32937;0.33313;0.33687;0.34063;0.34437;0.34813;0.35187;0.46875;0.51562;0.51938;0.52312;0.52687;0.53063;0.53438;0.53812;0.54187;0.54563;0.54937;0.55312;0.55688;0.56063;0.56437;0.56812;0.57188;0.57563;0.57937;0.58313;0.58688;0.59062;0.59437;0.59813;0.60188;0.60562;0.60938;0.61313;0.61687;0.62062;0.71875;0.76562;0.76938;0.77312;0.77687;0.78063;0.78438;0.78812;0.79187;0.79563;0.79937;0.80312;0.80688;0.81063;0.81437;0.81812;0.82188;0.82563;0.82937;0.83313;0.83688;0.84062;0.84437;0.84813;0.85188;0.96875;1.00000" values="302;302.0;317.6;333.2;348.8;364.4;380.0;395.6;411.2;426.8;442.4;458.0;473.6;489.2;504.8;520.4;536.0;551.6;567.2;582.8;598.4;614.0;629.6;645.2;660.8;676.4;692.0;707.6;723.2;738.8;302;302.0;317.6;333.2;348.8;364.4;380.0;395.6;411.2;426.8;442.4;458.0;473.6;489.2;504.8;520.4;536.0;551.6;567.2;582.8;598.4;614.0;629.6;645.2;660.8;302;302.0;317.6;333.2;348.8;364.4;380.0;395.6;411.2;426.8;442.4;458.0;473.6;489.2;504.8;520.4;536.0;551.6;567.2;582.8;598.4;614.0;629.6;645.2;660.8;676.4;692.0;707.6;723.2;738.8;302;302.0;317.6;333.2;348.8;364.4;380.0;395.6;411.2;426.8;442.4;458.0;473.6;489.2;504.8;520.4;536.0;551.6;567.2;582.8;598.4;614.0;629.6;645.2;660.8;302;302"/><animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.5;0.5;1" calcMode="discrete"/></rect>
+<rect x="43.0" y="372" width="218" height="52" rx="8" fill="#0d121b" stroke="#2e9ef7" stroke-opacity="0.8"/>
+<text x="59.0" y="406" font-size="22" font-weight="800" fill="#2e9ef7">4</text>
+<text x="247.0" y="403" font-size="12" fill="#a6b0bf" text-anchor="end" letter-spacing="1">PROJECTS</text>
+<rect x="275.0" y="372" width="218" height="52" rx="8" fill="#0d121b" stroke="#8e44ad" stroke-opacity="0.8"/>
+<text x="291.0" y="406" font-size="22" font-weight="800" fill="#8e44ad">3</text>
+<text x="479.0" y="403" font-size="12" fill="#a6b0bf" text-anchor="end" letter-spacing="1">HACKATHONS</text>
+<rect x="507.0" y="372" width="218" height="52" rx="8" fill="#0d121b" stroke="#ffa116" stroke-opacity="0.8"/>
+<text x="523.0" y="406" font-size="22" font-weight="800" fill="#ffa116">100</text>
+<text x="711.0" y="403" font-size="12" fill="#a6b0bf" text-anchor="end" letter-spacing="1">LEETCODE DAYS</text>
+<rect x="739.0" y="372" width="218" height="52" rx="8" fill="#0d121b" stroke="#27c93f" stroke-opacity="0.8"/>
+<text x="755.0" y="406" font-size="22" font-weight="800" fill="#27c93f">AI/ML</text>
+<text x="943.0" y="403" font-size="12" fill="#a6b0bf" text-anchor="end" letter-spacing="1">INTERNSHIPS</text>
+<rect class="scan" x="0" y="0" width="1000" height="80" fill="url(#scan)"/>
+</g>
+<rect x="0" y="0" width="1000" height="5" rx="2" fill="url(#rim)" class="rim" clip-path="url(#frame)"/>
+<rect x="1" y="1" width="998" height="458" rx="14" fill="none" stroke="#263247" stroke-width="1.5"/>
+</svg>
